@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Test1",
+    "description": "Insumo para test1",
+    "price": 10,
+    "thumbnail": "img1.jpg",
+    "code": "22112c21-c0da-4440-b4ca-90161c0f14fa",
+    "stock": 50,
+    "id": 1
+  },
+  {
+    "title": "Test2",
+    "description": "Insumo para test2",
+    "price": 10,
+    "thumbnail": "img2.jpg",
+    "code": "0eca4d6e-1b8c-4afd-b859-7ad7e593f357",
+    "stock": 50,
+    "id": 2
+  },
+  {
+    "title": "Test4",
+    "description": "Insumo para test4",
+    "price": 10,
+    "thumbnail": "img4.jpg",
+    "code": "db0fb924-6dd3-475c-80c9-a8f5d7398d5f",
+    "stock": 50,
+    "id": 4
+  },
+  {
+    "title": "Test5",
+    "description": "Insumo para test5",
+    "price": 10,
+    "thumbnail": "img5.jpg",
+    "code": "fb222380-410d-48df-ad0c-9e7807459292",
+    "stock": 50,
+    "id": 5
+  }
+]
